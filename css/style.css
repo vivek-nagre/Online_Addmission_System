@@ -1,0 +1,39 @@
+.rk{
+	width: 100%;
+	height:350px;
+	margin-top:40px; 
+}
+.tk{
+	margin-top: 80px;
+}
+.lpform{
+	width: 400px;
+	height: 400px;
+	padding:20px; 
+    border-radius:20px 5px 20px 5px; 
+	align-self: center;
+	margin-top:150px; 
+	background-color:#BC33E3;
+}
+.lpbody{
+	background-color: #E492FC;
+}
+.spform{
+	width: 400px;
+	height: 580px;
+	padding:20px; 
+    border-radius:20px 5px 20px 5px; 
+	align-self: center;
+	margin-top:30px; 
+	background-color:#BC33E3;
+	
+}
+.upro{
+	border:1px solid red ;
+	border-radius:50%; 
+}
+form,.inp{
+	width:250px;
+	height:40px; 
+}
+
